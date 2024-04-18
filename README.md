@@ -21,6 +21,16 @@ experiment 1, and we found no evidence of memory reinstatement at episodic offse
 results suggest that post-encoding memory reinstatement is akin to the rapid formation of
 unique and meaningful episodes that unfold over time.
 
+## Experiments
+
+![Figure1](./docs/figure1.png)
+
+
+- Task design in Experiment 1. During encoding, 100 different sequences were presented only once. Each sequence included 6 different pictures that unfold a life-like coherent narrative episode. Each picture was presented 2.5s, followed by a 1.5s fixation cross. After each sequence of images, there was an offset period (4s) during which participants were instructed to avoid rehearsing the just- encoded picture sequence. Participants were asked to provide a subjective rating of episodic coherence to the just encoded sequence at the end of each trial. Retrieval task was conducted 10-15 minutes after encoding. During retrieval, the first picture of each sequence was presented for 3.5 s which was followed fixation cross, and a message prompted at the screen instructing to report the associated episode during encoding. Participants were asked to verbally report within 20 seconds their memory associated episode or to indicate whether no memory came up associated to that picture cue. 
+
+- Task design in Experiment 2. Pictures were shuffled across sequences so that no meaningful story could be constructed after each sequence presentation. 60 shuffled sequence series were selected. The procedure was identical to Experiment 1 except two adjustments for task difficulty: 1. Time duration for the presentation of each picture during encoding was increased to 3000ms; 2. After each cued-picture recall task, participants were requested to perform a sequence order recognition task within 30 seconds, during which all 6 pictures from the same sequence series (including the cue picture) were presented on the screen in random positions and participants were asked to type the order of them as the original sequence presented during encoding phase.
+
+
 ## Project structure
 
 - `/scripts`: Contains the MATLAB scripts used to perform the analyses described in the paper.
